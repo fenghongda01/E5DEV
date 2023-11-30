@@ -2,8 +2,8 @@ import pygame
 import sys
 pygame.init()
 
-WINDOW_WIDTH = 1300
-WINDOW_HEIGHT = 700
+WINDOW_WIDTH = 1290
+WINDOW_HEIGHT = 800
 FPS = 20
 BLACK = (0, 0, 0)
 GREEN = (0, 255, 0)
